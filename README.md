@@ -8,8 +8,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google" alt="Google" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Google" alt="Google" width="80" height="80"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" title="Google" alt="Google" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="80" height="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_Google_Analytics.svg" title="Google_lytics" alt="Google_lytics" width="80" height="80"/>&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" title="PowerBI" alt="PowerBI" width="80" height="80"/>&nbsp;
+
 
 </div>
 
