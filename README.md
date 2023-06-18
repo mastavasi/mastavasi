@@ -14,5 +14,7 @@ Languages and Tools :
   <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/google-analytics-icon.svg" title="Google_lytics" alt="Google_lytics" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" title="Google_sheets" alt="Google_sheets" width="60" height="60"/>&nbsp;
    <img src="https://www.svgrepo.com/show/353827/google-tag-manager.svg" title="Google_tag_manager" alt="Google_tag_manager" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/google-optimize.svg" title="Google_optimize" alt="Google_optimize" width="60" height="60"/>&nbsp;
+  
 </div>
 
